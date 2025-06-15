@@ -1,6 +1,6 @@
 # Tech Hub E-Commerce Analysis
 
-![4610a119-47dd-4372-8e4d-b8c2ddd53482 copy](https://github.com/user-attachments/assets/4286f182-1748-4510-9066-c124965ba544)
+![4610a119-47dd-4372-8e4d-b8c2ddd53482 copy](https://github.com/user-attachments/assets/3649b8ca-0696-4e72-97dc-f943561a98c7)
 
 
 # Background and Overview
