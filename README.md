@@ -10,8 +10,8 @@ To support strategic planning and optimize business performance, historical sale
 - **Loyalty Program Performance:** Assessed the effectiveness of the customer loyalty program and overall revenue contribution.
 - **Marketing Channel Effectiveness:** Analyzed customer acquisition sources to measure return on investment and optimize budget allocation.
 
-  - ERD of Dataset can be found here.
-  - Workbook for analysis and more detailed insights can be found here.
+- ERD of Dataset can be found here.
+- Workbook for analysis and more detailed insights can be found here.
 
 # Executive Summary
 - High-level overview of findings, explained to non-technical audience
