@@ -1,6 +1,7 @@
 # Tech Hub E-Commerce Analysis
 
-![4610a119-47dd-4372-8e4d-b8c2ddd53482](https://github.com/user-attachments/assets/a6b0d44c-a07c-41ea-88fa-ff08488c5842)
+![4610a119-47dd-4372-8e4d-b8c2ddd53482 copy](https://github.com/user-attachments/assets/4286f182-1748-4510-9066-c124965ba544)
+
 
 # Background and Overview
 Tech Hub E-Commerce is a global online retailer specializing in consumer electronics such as laptops, smartphones, monitors, and headphones. Founded in the late 2010s, the company operates on a direct-to-consumer (DTC) business model, allowing it to offer competitive pricing and fast service by selling directly through its digital platform. With operations spanning globally, Tech Hub’s strategic goals include global growth, improved marketing efficiency, and stronger customer loyalty.
