@@ -1,7 +1,6 @@
 # Tech Hub E-Commerce Analysis
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fb4437e4-eb89-4965-95c2-b5c107e1047c
-" alt="Tech Hub Logo" width="400"/>
+  <img src="https://github.com/user-attachments/assets/fb4437e4-eb89-4965-95c2-b5c107e1047c" alt="Tech Hub Logo" width="400"/>
 </p>
 
 ![4610a119-47dd-4372-8e4d-b8c2ddd53482 copy](https://github.com/user-attachments/assets/3649b8ca-0696-4e72-97dc-f943561a98c7)
