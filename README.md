@@ -1,10 +1,14 @@
 # Tech Hub E-Commerce Analysis
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb4437e4-eb89-4965-95c2-b5c107e1047c
+" alt="Tech Hub Logo" width="400"/>
+</p>
 
 ![4610a119-47dd-4372-8e4d-b8c2ddd53482 copy](https://github.com/user-attachments/assets/3649b8ca-0696-4e72-97dc-f943561a98c7)
 
 
 # Background and Overview
-Tech Hub E-Commerce is a global online retailer specializing in consumer electronics such as laptops, smartphones, monitors, and headphones. Founded in the late 2010s, the company operates on a direct-to-consumer (DTC) business model, allowing it to offer competitive pricing and fast service by selling directly through its digital platform. With operations spanning globally, Tech Hub’s strategic goals include global growth, improved marketing efficiency, and stronger customer loyalty.
+Tech Hub E-Commerce is a global online retailer specializing in consumer electronics such as laptops, smartphones, monitors, and headphones. Founded in the late 2010s, the company operates on a direct-to-consumer business model, allowing it to offer competitive pricing and fast service by selling directly through its digital platform. With operations spanning globally, Tech Hub’s strategic goals include global growth, improved marketing efficiency, and stronger customer loyalty.
 
 To support strategic planning and optimize business performance, historical sales data from 2019 to 2022 was analyzed across several key areas:
 
@@ -22,7 +26,12 @@ To support strategic planning and optimize business performance, historical sale
 # Key Findings
 - Explain findings in detail, highlighting key trends, anomalies / outliers, and comparisons
 - Include clean visuals (pivot tables, dashboards, graphs)
-- 
+
+**1. Sales Trends**
+
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/d2066e4c-2470-443a-987e-e38c8454fb23" />
+
+
 # Recommendations
 1. Sales Trends
 - Give guidance on areas to further investigate and changes to make based on your findings
