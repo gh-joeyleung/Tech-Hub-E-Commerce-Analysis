@@ -33,17 +33,8 @@ To support strategic planning and optimize business performance, historical sale
 
 
 # Recommendations
-1. Sales Trends
 - Give guidance on areas to further investigate and changes to make based on your findings
 - Bring in company context by mentioning which teams these recommendations apply to
-
-2. Product Performance
-- Give guidance on areas to further investigate and changes to make based on your findings
-- Bring in company context by mentioning which teams these recommendations apply to
-
-3. Loyalty Program Performance
-- Give guidance on areas to further investigate and changes to make based on your findings
-- Bring in company context by mentioning which teams these recommendations apply to
-- 
+  
 # Assumptions and Caveats
 - List any assumptions you made throughout the project or caveats about data issues
