@@ -50,7 +50,7 @@ To support strategic planning and optimize business performance, historical sale
 - APAC and LATAM show minimal growth over the four years.
 - EMEA performance is stable but modest as the second-largest region contributing ~30% to sales yearly. 
 
-<img width="748" height="392" alt="image" src="https://github.com/user-attachments/assets/0151dbd0-8ffc-4e8f-a73a-3ef0d594233c" />
+<img width="909" height="504" alt="image" src="https://github.com/user-attachments/assets/83d8eab4-53ee-4aeb-a55e-d40e04cd34a9" />
 
 ### Monthly Sales Performance
 - While December 2020 saw a stronly holiday peak ($1.3M), year-end sales declined sharply in 2021 ($0.9M) and even more so in 2022 ($0.3M).
