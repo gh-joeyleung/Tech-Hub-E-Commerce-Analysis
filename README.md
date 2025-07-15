@@ -30,6 +30,7 @@ To support strategic planning and optimize business performance, historical sale
 
 ## 💡 Next Steps
 - Promote top‑selling products and consider phasing out low performers.
+- Expand top-selling product offerings such as laptops and monitors.
 - Expand presence in APAC and LATAM with localized strategies.
 - Enhance loyalty program (tiers, referrals) to sustain engagement.
 - Invest further in email campaigns to capitalize on growth trends.
@@ -86,6 +87,7 @@ To support strategic planning and optimize business performance, historical sale
 
 # 💡 Recommendations
 - **Double down on top performers** through promotions, bundling, or feature expansion.
+- **Optimize product offerings** such as laptops and monitors.
 - **Expand into emerging markets** like APAC and LATAM through localized strategies.
 - **Reassess or retire low-performing products** to free up resources.
 - **Enhance the loyalty program** with tiered rewards or referral incentives.
