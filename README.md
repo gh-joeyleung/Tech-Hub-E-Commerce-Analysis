@@ -77,6 +77,13 @@ To support strategic planning and optimize business performance, historical sale
 
 <img width="1242" height="511" alt="image" src="https://github.com/user-attachments/assets/57cf44a5-14d8-4593-943b-d8c9b260b866" />
 
+## 📣 Marketing Channel Performance
+- Email marketing channel experiences a steady rise from 8% to 16% of traffic between 2019 and 2022; doubling in share, showing effectiveness of CRM and remarketing efforts.
+- There has been a decline in direct  traffic from 86% to 76%. Although still dominant, it is shrinking.
+- Affiliate marketing remains small. Fluctuating between 2–5%, this channel underperforms and may need evaluation of affiliate strategy or partnerships.
+
+<img width="1224" height="511" alt="image" src="https://github.com/user-attachments/assets/e78ed313-5a15-4158-8941-a14854a8f41b" />
+
 # 💡 Recommendations
 - **Double down on top performers** through promotions, bundling, or feature expansion.
 - **Expand into emerging markets** like APAC and LATAM through localized strategies.
@@ -85,13 +92,6 @@ To support strategic planning and optimize business performance, historical sale
 - **Continue investing in email/CRM campaigns**, which show strong ROI potential.
 
 ## Appendix
-
-### Marketing Channel Performance
-- Email marketing channel experiences a steady rise from 8% to 16% of traffic between 2019 and 2022; doubling in share, showing effectiveness of CRM and remarketing efforts.
-- There has been a decline in direct  traffic from 86% to 76%. Although still dominant, it is shrinking.
-- Affiliate marketing remains small. Fluctuating between 2–5%, this channel underperforms and may need evaluation of affiliate strategy or partnerships.
-
-<img width="1224" height="511" alt="image" src="https://github.com/user-attachments/assets/e78ed313-5a15-4158-8941-a14854a8f41b" />
 
 ### Product Refunds 
 - Most major products reached 0% refund rate by 2022, which could be a compelling KPI for operational efficiency and customer satisfaction.
