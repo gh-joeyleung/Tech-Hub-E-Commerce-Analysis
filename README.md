@@ -28,6 +28,12 @@ To support strategic planning and optimize business performance, historical sale
 - **Refund rates** decreased significantly, with key products dropping to **0% by 2022**.
 - **Email marketing doubled** in effectiveness from 8% to 16%, while direct traffic declined.
 
+## 💡 Next Steps
+- Promote top‑selling products and consider phasing out low performers.
+- Expand presence in APAC and LATAM with localized strategies.
+- Enhance loyalty program (tiers, referrals) to sustain engagement.
+- Invest further in email campaigns to capitalize on growth trends.
+
 # 📝 Summary of Insights
 
 ## 📈 Sales Trends
