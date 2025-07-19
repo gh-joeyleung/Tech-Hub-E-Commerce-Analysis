@@ -8,57 +8,48 @@
 Tech Hub E-Commerce is a global online retailer specializing in consumer electronics, including laptops, smartphones, monitors, and headphones. Founded in 2018, the company operates through a digital marketplace model, offering a wide selection of products from various manufacturers and third-party vendors. With operations spanning North America, EMEA, APAC, and LATAM, Tech Hub’s strategic priorities include expanding its global footprint, increasing marketing efficiency, and improving customer retention through a loyalty program.
 
 
-To support strategic planning and optimize business performance, historical sales data from 2019 to 2022 was analyzed across several key areas:
+To support strategic decisions in product planning, marketing, and customer engagement, historical sales data from 2019 to 2022 was analyzed across several key areas:
 
 - **Sales Trends:** Focused on revenue to assess year-over-year growth and seasonal patterns.
 - **Product Performance:** Evaluated performance across different product categories to identify top sellers and underperformers.
 - **Loyalty Program Performance:** Assessed the effectiveness of the customer loyalty program and overall revenue contribution.
-- **Marketing Channel Effectiveness:** Analyzed customer acquisition sources to measure return on investment and optimize budget allocation.
+- **Marketing Channel Effectiveness:** Analyzed customer acquisition sources to measure the effectiveness in order to optimize budget allocation.
 
 > - ERD of Dataset can be found [here](#).
 > - Workbook for analysis and more detailed insights can be found [here](#).
 
 # Executive Summary
 
-## Key Findings
-- **Sales peaked in 2020** at $10.2M due to the pandemic surge but declined to $5.0M in 2022—below 2019 levels.
-- **North America** drove over 50% of sales consistently. **APAC and LATAM** remained stagnant, suggesting untapped potential.
-- Three products—**27in 4K Gaming Monitor**, **Apple AirPods**, and **MacBook Air**—accounted for ~80% of sales annually.
-- **Loyalty program participation** grew from 12% in 2019 to over 50% by 2021.
-- **Refund rates** decreased significantly, with key products dropping to **0% by 2022**.
-- **Email marketing doubled** in effectiveness from 8% to 16%, while direct traffic declined.
+Tech Hub E-Commerce had a total sales revenue of **$28M** across 4 years and over **108K** orders placed across all markets. 
 
-## Next Steps
-- Promote top‑selling products and consider phasing out low performers.
-- Expand top-selling product offerings such as laptops and monitors.
-- Expand presence in APAC and LATAM with localized strategies.
-- Enhance loyalty program (tiers, referrals) to sustain engagement.
-- Invest further in email campaigns to capitalize on growth trends.
+- **Sales peaked in 2020** at $10.2M due to the pandemic surge but declined to $5.0M in 2022; below 2019 levels. There were three products, **27in 4K Gaming Monitor**, **Apple AirPods**, and **MacBook Air** that consistently accounted for ~80% of sales annually.
+- Regionally, **North America** drove over 50% of sales consistently while **APAC and LATAM** remained stagnant, suggesting untapped potential worth exploring.
+- Sales that were generated from **loyalty program members** grew from 12% in 2019 to over 50% by 2021. Looking further, **email marketing doubled** in contribution from 8% to 16% over the same period while direct traffic declined, suggesting that targeted email campaigns may have played a role in driving loyalty program engagement and member sales growth.
 
 # Summary of Insights
 
 ## Sales Trends
 ### Overall Sales Performance
-- The COVID-19 pandemic drove a sharp increase in e-commerce activity in 2020, leading to a 161% YoY sales surge for Tech Hub. However, this growth was temporary, with sales declining in subsequent years, returning to near pre-pandemic levels by 2022. 
-- Rapid growth followed by contraction: Sales more than doubled from 2019 to 2020 (+161%), but then declined by 51% over the next two years, highlighting a short-lived boom likely tied to pandemic-specific conditions.
-- Despite the strong boost in 2020, the company did not sustain growth in 2021
-
-<img width="878" height="513" alt="image" src="https://github.com/user-attachments/assets/0d5a9feb-73af-4de6-963d-d4b49dc2d7dc" />
+- The COVID-19 pandemic drove a sharp increase in e-commerce activity in 2020, leading to a **163% YoY sales surge** for Tech Hub. However, this growth was temporary, with sales declining in subsequent years, returning to near pre-pandemic levels by 2022.
+- Even after the 2020 surge, sales remained elevated in **2021 at $9.1M**, indicating some lasting impact of increased online shopping habits before a steeper decline in 2022.
+- By 2022, sales had dropped sharply from the pandemic peak but remained about 28% higher than pre‑pandemic levels in 2019.
+  
+<img width="912" height="525" alt="image" src="https://github.com/user-attachments/assets/c75c55ce-9c05-4fd6-9fac-d7301f3d60dd" />
 
 ### Regional Sales Performance
-- Despite overall sales volatility, the proportional split by region remained relatively stable, suggesting Tech Hub hasn’t expanded or contracted significantly in specific markets.
-- NA showed dominance in sales performance; contributing 52%-54% of total sales each year.
-- APAC and LATAM show minimal growth over the four years.
-- EMEA performance is stable but modest as the second-largest region contributing ~30% to sales yearly. 
+- Despite overall sales volatility, the proportional split by region remained relatively stable, suggesting **Tech Hub hasn’t expanded significantly in specific markets**.
+- **North America showed dominance contributing ~49%-55% of total sales each year**; indicating strong brand presence but also potential of overreliance in one region. 
+- While all regions saw a peak in 2020, **LATAM and APAC have remained relatively small contributors**, highlighting potential opportunities for market expansion or localization strategies.
+- **EMEA performance is stable but modest as the second-largest region contributing ~30% to sales yearly**. There is a potential that the region may be under-leveraged with the flat growth. 
 
-<img width="909" height="504" alt="image" src="https://github.com/user-attachments/assets/83d8eab4-53ee-4aeb-a55e-d40e04cd34a9" />
+<img width="924" height="559" alt="image" src="https://github.com/user-attachments/assets/6492c8ca-c012-4664-955b-a16e053b2dc6" />
 
 ### Monthly Sales Performance
 - While December 2020 saw a stronly holiday peak ($1.3M), year-end sales declined sharply in 2021 ($0.9M) and even more so in 2022 ($0.3M).
 - Throughout 2020 and early 2021, monthly sales were consistently higher than in 2019, confirming the pandemic-driven surge in online shopping.
 - Starting mid-2021 and into 2022, monthly sales steadily declined, with Q4 2022 performing even worse than pre-pandemic levels, possibly indicating long-term demand normalization or increased market competition.
 
-<img width="1232" height="479" alt="image" src="https://github.com/user-attachments/assets/d29e71ff-7b38-415d-b210-dcff40e06363" />
+<img width="1229" height="476" alt="image" src="https://github.com/user-attachments/assets/0d4d4872-57a6-4020-8948-2084be17033d" />
 
 ## Product Performance
 - The top 3 products consistently account for 80%+ of sales, indicating high reliance on a small product set.
@@ -93,9 +84,9 @@ To support strategic planning and optimize business performance, historical sale
 - **Enhance the loyalty program** with tiered rewards or referral incentives.
 - **Continue investing in email/CRM campaigns**, which show strong ROI potential.
 
-## Appendix
+# Appendix
 
-### Product Refunds 
+## Product Refunds 
 - Most major products reached 0% refund rate by 2022, which could be a compelling KPI for operational efficiency and customer satisfaction.
 
 <img width="1383" height="585" alt="image" src="https://github.com/user-attachments/assets/e252866a-bc82-467a-bebb-acf0216ece17" />
