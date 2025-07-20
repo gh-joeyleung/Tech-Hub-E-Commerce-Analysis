@@ -15,7 +15,7 @@ To support strategic decisions in product planning, marketing, and customer enga
 - **Loyalty Program Performance:** Assessed the effectiveness of the customer loyalty program and overall revenue contribution.
 - **Marketing Channel Effectiveness:** Analyzed customer acquisition sources to measure the effectiveness in order to optimize budget allocation.
 
-> - ERD of Dataset can be found [here](#).
+> - ERD of Dataset can be found [here](https://github.com/gh-joeyleung/Tech-Hub-E-Commerce-Analysis/blob/main/Tech%20Hub%20E-Commerce%20Data%20ERD.png)
 > - Workbook for analysis and more detailed insights can be found [here](#).
 
 # Executive Summary
