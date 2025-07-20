@@ -45,7 +45,7 @@ Tech Hub E-Commerce had a total sales revenue of **$28M** across 4 years and ove
 <img width="924" height="559" alt="image" src="https://github.com/user-attachments/assets/6492c8ca-c012-4664-955b-a16e053b2dc6" />
 
 ### Monthly Sales Performance
-- Each year, **September shows a noticeable spike**, likely driven by back-to-school and tech-related seasonal demand (e.g., laptops and monitors).
+- **Each year, September shows a noticeable spike**, likely driven by back-to-school and tech-related seasonal demand (e.g., laptops and monitors).
 - **While December 2020 saw a strong holiday peak ($1.3M)**, year-end sales declined sharply in **2021 ($0.9M)** and even more so in **2022 ($0.3M)**.
 - **Throughout 2020 and early 2021, monthly sales were consistently higher than in 2019**, confirming the pandemic-driven surge in online shopping.
 - **Starting mid-2021 and into 2022, monthly sales steadily declined**, with Q4 2022 performing lower than pre-pandemic levels, possibly indicating long-term demand normalization or increased market competition.
@@ -53,9 +53,9 @@ Tech Hub E-Commerce had a total sales revenue of **$28M** across 4 years and ove
 <img width="1245" height="477" alt="image" src="https://github.com/user-attachments/assets/e92446dc-cc48-4965-aaf9-533f5c06c91e" />
 
 ## Product Performance
-- The top 3 products consistently account for 80%+ of sales, indicating high reliance on a small product set.
-- The MacBook Air Laptop briefly overtook Apple AirPods in 2020 (29% vs. 25%), suggesting a potential push in laptop demand during remote work/school.
-- The 27in 4K Gaming Monitor maintained top position every year, with share increasing over time, signaling it’s a flagship performer worth continued promotion or bundling.
+- **The top 3 products consistently account for 80%+ of sales**, indicating high reliance on a small product set.
+- **The MacBook Air Laptop briefly overtook Apple AirPods in 2020 (29% vs. 25%)**, suggesting a potential push in laptop demand during remote work/school.
+- **The 27in 4K Gaming Monitor maintained top position every year, with share increasing over time**, signaling it’s a flagship performer worth continued promotion or bundling.
 
 <img width="1336" height="486" alt="image" src="https://github.com/user-attachments/assets/c3fc3aa0-8ae6-40fc-8ca3-0a76523684a1" />
 
