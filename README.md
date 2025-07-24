@@ -80,7 +80,7 @@ Tech Hub E-Commerce had a total sales revenue of **$28M** across 4 years and ove
 
 <img width="1307" height="499" alt="image" src="https://github.com/user-attachments/assets/61b4a00c-32ed-451c-ad0c-8d3bf3f4efd6" />
 
-# Recommendations
+# Recommendations - ADD WHICH TEAM EACH RECO TARGETS
 **Optimize Product Portfolio**
 - Reassess low-performing SKUs (such as Apple iPhone and Bose Headphones) to determine whether to remove them from product portfolio to free up resources or offer targeted promotions to increase sales.
 - Leverage the strong perform product categories such as laptops and monitors by expanding assortments, creating bundles, or highlighting them in marketing to continue driving sales.
