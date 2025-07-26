@@ -80,26 +80,26 @@ Tech Hub E-Commerce had a total sales revenue of **$28M** across 4 years and ove
 
 <img width="1307" height="499" alt="image" src="https://github.com/user-attachments/assets/61b4a00c-32ed-451c-ad0c-8d3bf3f4efd6" />
 
-# Recommendations - ADD WHICH TEAM EACH RECO TARGETS
-**Optimize Product Portfolio**
+# Recommendations
+**Product Management - Optimize Product Portfolio**
 - Reassess low-performing SKUs (such as Apple iPhone and Bose Headphones) to determine whether to remove them from product portfolio to free up resources or offer targeted promotions to increase sales.
 - Leverage the strong perform product categories such as laptops and monitors by expanding assortments, creating bundles, or highlighting them in marketing to continue driving sales.
 
-**Expand Into Emerging Markets**
+**Business Operations/Business Development - Expand Into Emerging Markets**
 - Explore localized marketing and distribution strategies for APAC and LATAM to unlock growth in these underperforming regions.
 - Conduct market research to understand local customer preferences, price sensitivities, and competitive landscapes to tailor offerings and campaigns effectively. 
 
-**Enhance Loyalty Program**
+**Customer Loyalty Team - Enhance Loyalty Program**
 - Consider enhancing loyalty program with tiered rewards or referral incentives to encourage repeat purchases. 
 - Offer exclusive discounts, early access to new products or members-only sales events to drive engagement and retention.
 - Contine to tracking and reporting member lifetime value vs non-members to monitor impact and optimize program ROI.
   
-**Marketing Channels**
+**Marketing Team - Marketing Channels**
 - Invest further in email and CRM campaigns with personalzed recommendations based on purchase history.
 - Develop seasonal and event-driven campaigns targeting loyalty members to build a stronger relationship.
 - Conduct further reseach on affiliate and social media strategies to expand reach and improve sales contributions from these channels. 
 
-**Seasonality Efforts**
+**Marketing Team - Seasonality Efforts**
 - Align product inventory and marketing initiatives with seasonal trends to maximize sales opportunities during peak periods (e.g., back-to-school, holiday season).
 - Utilize historical data to improve demand forecasting and mitigate overstock or stocksouts. 
 
